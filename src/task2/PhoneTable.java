@@ -7,6 +7,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 public class PhoneTable {
+
     private HashMap<String, String> phoneTable = new HashMap<>();
 
     public void add (String phone, String name) {
